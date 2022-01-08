@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proiect_Salon", "Proiect_Salon\Proiect_Salon.csproj", "{FB29E009-A55C-489D-9A86-E16546C46DB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalonCModel", "SalonCModel\SalonCModel.csproj", "{BF8CE278-9DA7-48E2-BF69-854D19F27E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB29E009-A55C-489D-9A86-E16546C46DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB29E009-A55C-489D-9A86-E16546C46DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB29E009-A55C-489D-9A86-E16546C46DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB29E009-A55C-489D-9A86-E16546C46DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8CE278-9DA7-48E2-BF69-854D19F27E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8CE278-9DA7-48E2-BF69-854D19F27E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8CE278-9DA7-48E2-BF69-854D19F27E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8CE278-9DA7-48E2-BF69-854D19F27E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E60F0F3-7244-4B42-916B-76A0FCCEC826}
+	EndGlobalSection
+EndGlobal
